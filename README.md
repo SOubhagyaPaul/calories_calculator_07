@@ -1,1 +1,2 @@
-# calories_calculator_07
+# Calories Calculator
+CampusX Course Project [Will update later]
